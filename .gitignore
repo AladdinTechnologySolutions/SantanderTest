@@ -483,6 +483,3 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 
-# Local-only files
-Backend_Developer_Coding_Test.pdf
-IMPLEMENTATION_STEPS.md
